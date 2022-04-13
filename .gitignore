@@ -1,0 +1,3 @@
+!/.gitignore
+node_modules
+./templates/managers_workload/script.js
